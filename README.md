@@ -1,4 +1,4 @@
-### oii, meu nome é vinicius
+### hi, my name's Gabriel Assunção
 
 <div style="display: ;icons">
 
