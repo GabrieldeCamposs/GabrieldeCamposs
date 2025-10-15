@@ -1,13 +1,5 @@
 ### hi, my name's Gabriel Assunção
 
-<div style="display: ;icons">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-  
-          
-</div>
-
-
           
 <div style="display: inline_block">
   
